@@ -1,0 +1,21 @@
+{
+  "classes_colors": [
+    "Color_amarillo-",
+    "Color_azul-",
+    "Color_negro-",
+    "Color_plateado-",
+    "Color_rojo-",
+    "Color_verde-"
+  ],
+  "classes_letters": [
+    "Letra_h-",
+    "Letra_s-",
+    "Letra_u-"
+  ],
+  "img_size": [
+    16,
+    16
+  ],
+  "tf_version": "2.19.0",
+  "format": ".keras"
+}
